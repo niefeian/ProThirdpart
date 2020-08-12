@@ -1,0 +1,6 @@
+framework module Pods_ProThirdpart_Example {
+  umbrella header "Pods-ProThirdpart_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
